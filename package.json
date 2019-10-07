@@ -1,0 +1,27 @@
+{
+  "name": "angular-custom-locale",
+  "version": "0.1.0",
+  "description": "Easy customization Angular 5-8 locale with mnemonic parameters",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mclander/angular-custom-locale.git"
+  },
+  "keywords": [
+    "angular",
+    "locale",
+    "customization",
+    "custom",
+    "angular.io"
+  ],
+  "author": "Alex (mclander)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/mclander/angular-custom-locale/issues"
+  },
+  "homepage": "https://github.com/mclander/angular-custom-locale#readme",
+  "dependencies": {}
+}
