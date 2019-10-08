@@ -8,7 +8,7 @@ Imagine that we need to change view of numbers in whole project output. So let i
 // app.module.component.ts
 
 // Boilerplate
-import customizeLocale from 'angular-customize-locale';
+import customizeLocale from 'angular-custom-locale';
 import { registerLocaleData } from '@angular/common';
 
 // Imports russian locale: where numbers outputs like 1234.56 => 1 234,56 

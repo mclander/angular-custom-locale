@@ -96,6 +96,7 @@ function customizeLocale(locale, rules, noWarnings) {
 }
 
 module.exports = customizeLocale;
+module.exports.default = customizeLocale;
 module.exports.setItem = setItem;
 module.exports.getItem = getItem;
 
