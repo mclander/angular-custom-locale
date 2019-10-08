@@ -1,6 +1,6 @@
 {
   "name": "angular-custom-locale",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "Easy customization Angular 5-8 locale with mnemonic parameters",
   "main": "index.js",
   "scripts": {
