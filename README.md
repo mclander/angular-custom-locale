@@ -2,7 +2,8 @@
 Helps to customization Angular 5.x-8.x locale
 
 # Usage
-Imagine that we need to change view of numbers in whole project output. So let is magic begin.
+Imagine, that we need to change view of numbers, in whole project. And this project already use some locale.
+So let is magic begin.
 
 ```typescript
 // app.module.component.ts
@@ -34,6 +35,7 @@ items, 2nd level - meant items names. All not case sensitive.
 Now supported nly one section 'number'. If you need more drop me a line mclander@list.ru.
 
 List of items:
+
     * **decimal** - decimal separator
     * **group** - digits group separator
     * **list** - list separator
